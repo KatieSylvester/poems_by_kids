@@ -14,7 +14,7 @@
 * [Technologies](#technologies)
 * [Files in this Repository](#files)
 * [Analysis](#analysis)
-* [Dashboard](#dashboard)*
+* [Dashboard](#dashboard)
 <br>
 <br>
 
