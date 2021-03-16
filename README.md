@@ -6,7 +6,7 @@
 
 
 ## Table of Contents
-* [ERD](#erd)
+* [Entity Relationship Diagram](#erd)
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Files in this Repository](#files)
