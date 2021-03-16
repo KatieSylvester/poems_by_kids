@@ -14,6 +14,7 @@
 * [Dashboard](#dashboard)
 <br>
 <br>
+
 ## <a name="erd"></a>Entity Relationship Diagram
 
 ![](./images/PoetryKidsERD.png)
