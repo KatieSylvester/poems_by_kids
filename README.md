@@ -5,4 +5,4 @@
 
 
 ### ERD
-![](../images/poetrykidsdash.png)
+![](../images/PoetryKidsDash.png)
