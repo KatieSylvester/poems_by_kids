@@ -37,6 +37,6 @@ All SQL scripts can be found in the scripts folder.
 <br>
 
 ## <a name="dashboard"></a>Dashboard
-[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDAwZjMyNDktYWU4Ny00NTlhLWE2MWQtMzI4NDY0ZDExOGZjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
+[Click Here for Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDAwZjMyNDktYWU4Ny00NTlhLWE2MWQtMzI4NDY0ZDExOGZjIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)
 
 ![](./images/PoetryKidsDash.png)
