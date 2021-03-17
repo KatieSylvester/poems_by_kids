@@ -29,7 +29,7 @@ Project is created with:
 
 ## <a name="files"></a>Files in this Repository
 ERD can be found in the images folder. \
-Analysis and findings can all be found in the marathon<br>
+All SQL scripts can be found in the scripts folder.
 <br>
 
 ## <a name="analysis"></a>Analysis
