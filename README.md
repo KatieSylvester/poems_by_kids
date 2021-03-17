@@ -17,7 +17,7 @@ The data is used for education purposes with permission from the maintainer.
 <br>
 
 ## <a name="general-information"></a>General Information
-
+Poems by Kids is a large dataset of poems written and submitted by children in grades 1-5 (taken from a larger dataset from grades 1-12).  It is an important data set because historically, child language studies have been stymied by the small number of data sets available containing texts written by children.  It also plays a larger role in the context of emotion research and child development research.
 <br>
 
 
@@ -32,7 +32,7 @@ All SQL scripts can be found in the scripts folder.
 <br>
 
 ## <a name="analysis"></a>Analysis
-This was a really fun data set to explore.  I first analyzed gender distribution for each grade level and combined for all grade levels.  
+This was a really fun data set to explore.  I first analyzed gender demographics for each grade level and combined for all grade levels.  
 <br>
 
 ## <a name="dashboard"></a>Dashboard
