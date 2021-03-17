@@ -23,7 +23,6 @@ The data is used for education purposes with permission from the maintainer.
 
 
 ## <a name="technologies"></a>Technologies
-Project is created with:
 * SQL
 * Power BI
 <br>
