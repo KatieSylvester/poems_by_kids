@@ -8,7 +8,6 @@ The data is used for education purposes with permission from the maintainer.
 <br>
 
 ## Table of Contents
-* [Entity Relationship Diagram](#erd)
 * [General Information](#general-information)
 * [Technologies](#technologies)
 * [Files in this Repository](#files)
