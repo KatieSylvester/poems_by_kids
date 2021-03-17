@@ -16,7 +16,6 @@ The data is used for education purposes with permission from the maintainer.
 <br>
 <br>
 
-
 ## <a name="general-information"></a>General Information
 
 <br>
@@ -33,7 +32,7 @@ All SQL scripts can be found in the scripts folder.
 <br>
 
 ## <a name="analysis"></a>Analysis
-
+This was a really fun data set to explore.  I first analyzed gender distribution for each grade level and combined for all grade levels.  
 <br>
 
 ## <a name="dashboard"></a>Dashboard
