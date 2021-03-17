@@ -17,12 +17,6 @@ The data is used for education purposes with permission from the maintainer.
 <br>
 <br>
 
-## <a name="erd"></a>Entity Relationship Diagram
-
-![](./images/PoetryKidsERD.png)
-
-<br>
-<br>
 
 ## <a name="general-information"></a>General Information
 
@@ -34,6 +28,7 @@ Project is created with:
 
 
 ## <a name="files"></a>Files in this Repository
+ERD can be found in the images folder. \
 Analysis and findings can all be found in the marathon<br>
 <br>
 
