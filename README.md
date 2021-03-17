@@ -20,11 +20,13 @@ The data is used for education purposes with permission from the maintainer.
 ## <a name="general-information"></a>General Information
 
 <br>
-<br>
+
+
 ## <a name="technologies"></a>Technologies
 Project is created with:
-* Excel
-
+* SQL
+* Power BI
+<br>
 
 ## <a name="files"></a>Files in this Repository
 ERD can be found in the images folder. \
