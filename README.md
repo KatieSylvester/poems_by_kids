@@ -12,7 +12,6 @@ The data is used for education purposes with permission from the maintainer.
 * [Files in this Repository](#files)
 * [Analysis](#analysis)
 * [Dashboard](#dashboard)
-<br>
 
 ## <a name="general-information"></a>General Information
 Poems by Kids is a large dataset of poems written and submitted by children in grades 1-5 (taken from a larger dataset from grades 1-12).  It is an important data set because historically, child language studies have been stymied by the small number of data sets available containing texts written by children.  It also plays a larger role in the context of emotion research and child development research.
